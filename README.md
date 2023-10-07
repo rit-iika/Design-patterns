@@ -39,6 +39,7 @@ Behavior Patterns:
 links-
 1. https://www.oodesign.com/
 2. https://refactoring.guru/design-patterns/singleton
+3. https://www.bogotobogo.com/DesignPatterns/introduction.php
 
 
 
