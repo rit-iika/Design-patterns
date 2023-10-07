@@ -36,6 +36,9 @@ Behavior Patterns:
 6. State
 7. Visitor
 
+links-
+https://www.oodesign.com/
+https://refactoring.guru/design-patterns/singleton
 
 
 
