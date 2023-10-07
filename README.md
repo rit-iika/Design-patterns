@@ -37,8 +37,8 @@ Behavior Patterns:
 7. Visitor
 
 links-
-https://www.oodesign.com/
-https://refactoring.guru/design-patterns/singleton
+1. https://www.oodesign.com/
+2. https://refactoring.guru/design-patterns/singleton
 
 
 
